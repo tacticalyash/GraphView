@@ -1,0 +1,15 @@
+--bare
+-I
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug
+-I
+C:/Qt/6.7.3/mingw_64/qml
+--resource
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/qmake_realtimegraphview.qrc
+--resource
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/apprealtimegraphview_raw_qml_0.qrc
+C:/Workspace/QMLExperiments/realtimegraphview/Main.qml
+C:/Workspace/QMLExperiments/realtimegraphview/NavTable.qml
+C:/Workspace/QMLExperiments/realtimegraphview/GraphView.qml
+C:/Workspace/QMLExperiments/realtimegraphview/text.qml
+--json
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/apprealtimegraphview_qmllint.json

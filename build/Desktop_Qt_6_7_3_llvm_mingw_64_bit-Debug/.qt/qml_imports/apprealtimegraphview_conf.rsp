@@ -1,0 +1,14 @@
+-rootPath
+C:/Workspace/QMLExperiments/realtimegraphview
+-cmake-output
+-output-file
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/.qt/qml_imports/apprealtimegraphview_conf.cmake
+-importPath
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/realtimegraphview
+-importPath
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug
+-importPath
+C:/Qt/6.7.3/llvm-mingw_64/qml
+-qrcFiles
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/.qt/rcc/qmake_realtimegraphview.qrc
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/.qt/rcc/apprealtimegraphview_raw_qml_0.qrc

@@ -1,0 +1,7 @@
+module realtimegraphview
+typeinfo apprealtimegraphview.qmltypes
+prefer :/qt/qml/realtimegraphview/
+Main 1.0 Main.qml
+NavTable 1.0 NavTable.qml
+GraphView 1.0 GraphView.qml
+

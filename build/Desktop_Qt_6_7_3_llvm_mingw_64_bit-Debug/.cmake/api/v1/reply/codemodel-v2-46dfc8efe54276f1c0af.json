@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-149fdc1209820eb379cd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "realtimegraphview",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-092060ad32393509f430.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6610e5e8022d8c44220c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9f023d9e68efa6d9708d.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-e0f8c7a6cd18072d3a53.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview-Debug-4119761cbb243e1e8bd1.json",
+					"name" : "apprealtimegraphview",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview_autogen-Debug-5fbf7a362404bf45418c.json",
+					"name" : "apprealtimegraphview_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview_autogen_timestamp_deps-Debug-b96b5fdc5f1227027e25.json",
+					"name" : "apprealtimegraphview_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview_qmlimportscan-Debug-837402b17b2519b228be.json",
+					"name" : "apprealtimegraphview_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview_qmllint-Debug-0202dd54bdabc3c24feb.json",
+					"name" : "apprealtimegraphview_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview_qmllint_json-Debug-85e5060e766c17504f5a.json",
+					"name" : "apprealtimegraphview_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview_qmllint_module-Debug-ac9b55c948716351ffc7.json",
+					"name" : "apprealtimegraphview_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview_qmltyperegistration-Debug-f1791eee97a9b458dcb7.json",
+					"name" : "apprealtimegraphview_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprealtimegraphview_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprealtimegraphview_tooling-Debug-cf503179c67d0f66cb5d.json",
+					"name" : "apprealtimegraphview_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug",
+		"source" : "C:/Workspace/QMLExperiments/realtimegraphview"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

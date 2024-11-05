@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/realtimegraphview/">
+    <file alias="Main.qml">C:/Workspace/QMLExperiments/realtimegraphview/Main.qml</file>
+    <file alias="NavTable.qml">C:/Workspace/QMLExperiments/realtimegraphview/NavTable.qml</file>
+    <file alias="GraphView.qml">C:/Workspace/QMLExperiments/realtimegraphview/GraphView.qml</file>
+    <file alias="text.qml">C:/Workspace/QMLExperiments/realtimegraphview/text.qml</file>
+  </qresource>
+</RCC>
+

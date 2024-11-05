@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/realtimegraphview">
+    <file alias="qmldir">C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/realtimegraphview/qmldir</file>
+  </qresource>
+</RCC>
+

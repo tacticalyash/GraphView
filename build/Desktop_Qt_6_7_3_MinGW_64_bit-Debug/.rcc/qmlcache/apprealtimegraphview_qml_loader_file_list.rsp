@@ -1,0 +1,8 @@
+--resource
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/qmake_realtimegraphview.qrc
+--resource
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qt/rcc/apprealtimegraphview_raw_qml_0.qrc
+/qt/qml/realtimegraphview/Main.qml
+/qt/qml/realtimegraphview/NavTable.qml
+/qt/qml/realtimegraphview/GraphView.qml
+/qt/qml/realtimegraphview/text.qml

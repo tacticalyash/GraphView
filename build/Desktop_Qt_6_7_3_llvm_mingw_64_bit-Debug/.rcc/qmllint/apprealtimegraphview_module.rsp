@@ -1,0 +1,10 @@
+-I
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug
+-I
+C:/Qt/6.7.3/llvm-mingw_64/qml
+--resource
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/.qt/rcc/qmake_realtimegraphview.qrc
+--resource
+C:/Workspace/QMLExperiments/realtimegraphview/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/.qt/rcc/apprealtimegraphview_raw_qml_0.qrc
+--module
+realtimegraphview
